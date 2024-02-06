@@ -1,5 +1,6 @@
 # My Projects
 ## About This Repo
+Checkout #Status_complete and #InProgress 
 
 ## Tags
 - Woodworking
@@ -8,5 +9,5 @@
 - Electronics
 
 # All Projects
-[L Desk](L_Desk/README.md)
-[Ortho60P Keyboard](Keyboards/Ortho_60P/README.md)
+1) [L Desk](L_Desk/README.md)
+2) [Ortho60P Keyboard](Keyboards/Ortho_60P/README.md)

@@ -1,4 +1,4 @@
-#Project #Keyboard #Laser #Electronics
+#Project #Keyboard #Laser #Electronics #InProgress
 # Ideas
 ## Features
 1) Bluetooth -> ZMK
