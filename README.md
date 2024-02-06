@@ -5,8 +5,8 @@
 - Woodworking
 - Keyboard
 - Laser
-- Soldering
+- Electronics
 
 # All Projects
-[[MyProjects/L_Desk/README|L Desk]]
-[[MyProjects/Keyboards/Ortho_60P/README|Ortho60P Keyboard]]
+[L Desk](MyProjects/L_Desk/README.md)
+[Ortho60P Keyboard](MyProjects/Keyboards/Ortho_60P/README)
