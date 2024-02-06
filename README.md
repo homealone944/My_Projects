@@ -8,5 +8,5 @@
 - Electronics
 
 # All Projects
-[L Desk](MyProjects/L_Desk/README.md)
-[Ortho60P Keyboard](MyProjects/Keyboards/Ortho_60P/README)
+[L Desk](My_Projects/L_Desk/README.md)
+[Ortho60P Keyboard](My_Projects/Keyboards/Ortho_60P/README)

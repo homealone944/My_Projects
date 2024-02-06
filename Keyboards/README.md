@@ -19,7 +19,7 @@
 # Projects
 ## Self Created
 - Left Hand Gaming
-- [[MyProjects/Keyboards/Ortho_60P/README|Ortho60P]]
+- [[My_Projects/Keyboards/Ortho_60P/README|Ortho60P]]
 
 ## Kits
 - Corne
